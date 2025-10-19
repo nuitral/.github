@@ -1,6 +1,6 @@
 ## nuitral UI Suite
 
-#### A native UI Suite for creating fully customizable themes with built-in light and dark modes. Lightweight and powerful, built for React and Vue.
+#### A native UI Suite for creating fully customizable themes with built-in light and dark modes. Lightweight and powerful, built for React and Vue. ( Angular WIP )
 <!--
 
 **Here are some ideas to get you started:**
